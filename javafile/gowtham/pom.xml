@@ -8,6 +8,6 @@
   <name>work.idea Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <build>
-    <finalName>work</finalName>
+    <finalName>test</finalName>
   </build>
 </project>
